@@ -1,9 +1,28 @@
 /* add css module styles here (optional) */
 
-.test {
-  margin: 2em;
+.btn {
+  border: 1px solid #000;
   padding: 0.5em;
-  border: 2px solid #000;
-  font-size: 2em;
+  background: none;
   text-align: center;
+  cursor: pointer;
+  font-size: 18px;
+  border-width: 2px;
+}
+
+.primary {
+  background-color: #4096ff;
+  color: #fff;
+  border-color: #4096ff;
+}
+.default {
+  background-color: #fff;
+  color: #000;
+  border-color: #4096ff;
+}
+.dotted {
+  background-color: #fff;
+  color: #000;
+  border-color: #000;
+  border-style: dotted;  
 }
