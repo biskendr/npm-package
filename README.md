@@ -15,8 +15,8 @@ npm install --save pat-btn-ui
 ```jsx
 import React from 'react'
 
-import { ButtonPrimary ,ButtonDefault ,ButtonDotted } from 'bis-btn-ui'
-import 'bis-btn-ui/dist/index.css'
+import { ButtonPrimary ,ButtonDefault ,ButtonDotted } from 'pat-btn-ui'
+import 'pat-btn-ui/dist/index.css'
 
 const App = () => {
   return (<>    
