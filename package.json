@@ -4,7 +4,7 @@
   "description": "Made with create-react-library for patika/react task",
   "author": "biskendr",
   "license": "MIT",
-  "repository": "",
+  "repository": "https://github.com/biskendr/npm-package",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
